@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "UbuntuMono Nerd Font:size=18:antialias=true:autohint=true";
-static int borderpx = 1;
+static int borderpx = 10;
 
 /*
  * What program is execed by st depends of these precedence rules:
